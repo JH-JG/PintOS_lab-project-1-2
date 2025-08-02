@@ -1,3 +1,6 @@
+# Krafton Jungle PintOS Project 1-2
+프로젝트 2까지의 모든 기능 구현
+
 # 📘 Docker기반 Pintos 개발 환경 구축 가이드 
 
 이 문서는 **Windows**와 **macOS** 사용자가 Docker와 VSCode DevContainer 기능을 활용하여 Pintos OS 프로젝트를 빠르게 구축할 수 있도록 도와줍니다.
@@ -127,5 +130,6 @@ git push -u origin main
 - `git remote add origin ...`: 새로운 리포지토리 주소를 origin으로 등록합니다.
 - `git add .` 및 `git commit`: 모든 파일을 커밋합니다.
 - `git push`: 새로운 리포에 최초 업로드(Push)합니다.
+
 
 이 과정을 거치면 기존 리포와의 연결은 완전히 제거되고, **새로운 독립적인 프로젝트로 관리**할 수 있습니다.
